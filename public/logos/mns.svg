@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600">
+	<title>Flag of Maharashtra Navnirman Sena (3x2)</title>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: #000087 } 
+		.s2 { fill: #158708 } 
+		.s3 { fill: #ff9933 } 
+	</style>
+	<path id="white" class="s0" d="m0 0h900v600h-900z"/>
+	<path id="blue" class="s1" d="m0 0h900v125h-900z"/>
+	<path id="green" class="s2" d="m0 475h900v125h-900z"/>
+	<path id="orange" class="s3" d="m0 175h900v250h-900z"/>
+</svg>
